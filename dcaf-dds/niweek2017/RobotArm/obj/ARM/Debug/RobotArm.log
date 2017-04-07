@@ -1,0 +1,7 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely
+  Starting remote build
+  Compiling sources:
+  RobotArm_subscriber.cxx
+C:\Users\Administrator\Desktop\RobotArmCPP\RobotArm\RobotArm\RobotArmCPP\RobotArm_subscriber.cxx(52,31): error : libusb-1.0/libusb.h: No such file or directory

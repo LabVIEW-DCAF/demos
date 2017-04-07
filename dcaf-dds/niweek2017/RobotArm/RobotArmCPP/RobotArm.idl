@@ -1,0 +1,3 @@
+struct RobotArmCommand {
+    long value; 
+}; 
